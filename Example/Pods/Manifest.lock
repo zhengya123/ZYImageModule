@@ -1,0 +1,16 @@
+PODS:
+  - ZYImageModule (0.1.0)
+
+DEPENDENCIES:
+  - ZYImageModule (from `../`)
+
+EXTERNAL SOURCES:
+  ZYImageModule:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZYImageModule: 7c812fc764269e3db9fa86a2d3c826a5f7d69bde
+
+PODFILE CHECKSUM: 7932e99a27e9cc76a1e741097563b9918461e5a2
+
+COCOAPODS: 1.7.2

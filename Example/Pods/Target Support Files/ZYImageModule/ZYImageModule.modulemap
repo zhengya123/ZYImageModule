@@ -1,0 +1,6 @@
+framework module ZYImageModule {
+  umbrella header "ZYImageModule-umbrella.h"
+
+  export *
+  module * { export * }
+}
