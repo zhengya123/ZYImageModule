@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'ZYImageModule_Example' do
+  pod 'ZYImageModule', :path => '../'
+
+  target 'ZYImageModule_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
