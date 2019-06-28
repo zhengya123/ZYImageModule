@@ -60,17 +60,17 @@
 		3DE3DA8B566C5FAAD6365A0987D48F5C /* Pods-ZYImageModule_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-ZYImageModule_Tests-Info.plist"; sourceTree = "<group>"; };
 		43022E05FFAAA307A70863067D6278A5 /* Pods-ZYImageModule_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-ZYImageModule_Example-frameworks.sh"; sourceTree = "<group>"; };
 		439F253B6901E6A09BD41E40B8928A4F /* ZYImageModule.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = ZYImageModule.xcconfig; sourceTree = "<group>"; };
-		5E4B4736E6C64533B4FA85CB334FF2A4 /* ZYImageModule.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = ZYImageModule.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		5E4B4736E6C64533B4FA85CB334FF2A4 /* ZYImageModule.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = ZYImageModule.framework; path = ZYImageModule.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		6092BAE3CEC9ECAFCA692C6C0A01AC12 /* Pods-ZYImageModule_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-ZYImageModule_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		6211077E95C86862E2F6D9E95006DAE3 /* UIImage+ZYBundle.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImage+ZYBundle.h"; path = "ZYImageModule/Classes/UIImage+ZYBundle.h"; sourceTree = "<group>"; };
 		6633C0FD7ECCB40D09E85C72ED659B09 /* Pods-ZYImageModule_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-ZYImageModule_Example-umbrella.h"; sourceTree = "<group>"; };
 		6745FF29B61C9D95BFED516F32084150 /* Pods-ZYImageModule_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-ZYImageModule_Example-Info.plist"; sourceTree = "<group>"; };
-		700631406E1ADA0F299E34FE265FBCFB /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		700631406E1ADA0F299E34FE265FBCFB /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
 		8784D5B5E48636C7B982578E6E847AFE /* ZYImageModule-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "ZYImageModule-Info.plist"; sourceTree = "<group>"; };
 		88EFD98EA84E1B103305817B793709E5 /* ZYImageModule.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = ZYImageModule.modulemap; sourceTree = "<group>"; };
 		8C9FA15023C3558B6320302BC561117C /* Pods-ZYImageModule_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ZYImageModule_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		9C13B04A7246D892DAFE542E49443A0B /* ZYImageModule-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "ZYImageModule-dummy.m"; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		A24B250BA8444ABF5DD665E31939132F /* Pods-ZYImageModule_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ZYImageModule_Example.release.xcconfig"; sourceTree = "<group>"; };
 		A311AF960A4BE4104AD68E6E5C23D4E5 /* Pods-ZYImageModule_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ZYImageModule_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		A3DFB02D04F4861E67FA2D4591AEDDCF /* upVersionCancelBtnImageNomal.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = upVersionCancelBtnImageNomal.png; path = ZYImageModule/Assets/WJCResource/upVersionCancelBtnImageNomal.png; sourceTree = "<group>"; };
@@ -78,17 +78,17 @@
 		A9566A3E1D14C7D414CAA5CB75E326A6 /* ReplaceMe.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = ReplaceMe.m; path = ZYImageModule/Classes/ReplaceMe.m; sourceTree = "<group>"; };
 		B5297B25256DA5D9E72F63B7CB4976A5 /* upVersionCancelBtnImage.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = upVersionCancelBtnImage.png; path = ZYImageModule/Assets/WJCResource/upVersionCancelBtnImage.png; sourceTree = "<group>"; };
 		BB50AD9BE2118F2AB701CE7C95A30B42 /* Pods-ZYImageModule_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-ZYImageModule_Example-dummy.m"; sourceTree = "<group>"; };
-		BCD9066C744258FF89ADD78EBBEADFEF /* Pods_ZYImageModule_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ZYImageModule_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		BCD9066C744258FF89ADD78EBBEADFEF /* Pods_ZYImageModule_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_ZYImageModule_Example.framework; path = "Pods-ZYImageModule_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BE267C64F474064FFA58D69A4B0C1CF8 /* Pods-ZYImageModule_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-ZYImageModule_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		BF477AF0603FCAEEC4D39709AA8AB210 /* Pods-ZYImageModule_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-ZYImageModule_Tests-umbrella.h"; sourceTree = "<group>"; };
 		C7256639678701D2715EC6BF02ADD5CB /* Pods-ZYImageModule_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-ZYImageModule_Tests.modulemap"; sourceTree = "<group>"; };
-		D203EDFE94471DB888D38B6339DE94D5 /* ZYImageModule.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ZYImageModule.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
+		D203EDFE94471DB888D38B6339DE94D5 /* ZYImageModule.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = ZYImageModule.bundle; path = "ZYImageModule-ZYImageModule.bundle"; sourceTree = BUILT_PRODUCTS_DIR; };
 		DC2D44417168665306D001F71F3C0DF4 /* ZYImageModule-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "ZYImageModule-prefix.pch"; sourceTree = "<group>"; };
-		DD60D833BE78D271E7F37EE850411B82 /* ZYImageModule.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = ZYImageModule.podspec; sourceTree = "<group>"; tabWidth = 2; };
+		DD60D833BE78D271E7F37EE850411B82 /* ZYImageModule.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = ZYImageModule.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		E516041D6CDB5DAD12260A478674B8DD /* Pods-ZYImageModule_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-ZYImageModule_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
-		E5AA0A63CF883302EF492045D34A5FA8 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		E5AA0A63CF883302EF492045D34A5FA8 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
 		EC978A03F5BC392C7D7208FFBC5F953F /* ZYImageModule-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "ZYImageModule-umbrella.h"; sourceTree = "<group>"; };
-		F381F158FF8373C397532F0DA1479001 /* Pods_ZYImageModule_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ZYImageModule_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		F381F158FF8373C397532F0DA1479001 /* Pods_ZYImageModule_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_ZYImageModule_Tests.framework; path = "Pods-ZYImageModule_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -625,7 +625,8 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
 				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
 			};
