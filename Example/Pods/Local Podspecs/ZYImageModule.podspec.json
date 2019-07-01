@@ -1,6 +1,6 @@
 {
   "name": "ZYImageModule",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A short description of ZYImageModule.",
   "description": "TODO: Add long description of the pod here.",
   "homepage": "https://github.com/zhengya123/ZYImageModule",
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "https://github.com/zhengya123/ZYImageModule.git",
-    "tag": "0.1.1"
+    "tag": "0.1.2"
   },
   "platforms": {
     "ios": "8.0"

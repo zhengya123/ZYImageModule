@@ -1,5 +1,5 @@
 PODS:
-  - ZYImageModule (0.1.1)
+  - ZYImageModule (0.1.2)
 
 DEPENDENCIES:
   - ZYImageModule (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  ZYImageModule: 9fd7a6ff5cd974e3ff33c3fa48bf7dda8188c9f1
+  ZYImageModule: 6f001d067a3f0294a902d30a014745a1a99a60a6
 
 PODFILE CHECKSUM: 7932e99a27e9cc76a1e741097563b9918461e5a2
 
