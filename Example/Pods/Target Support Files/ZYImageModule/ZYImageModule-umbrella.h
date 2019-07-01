@@ -10,7 +10,6 @@
 #endif
 #endif
 
-#import "UIImage+ZYBundle.h"
 
 FOUNDATION_EXPORT double ZYImageModuleVersionNumber;
 FOUNDATION_EXPORT const unsigned char ZYImageModuleVersionString[];
